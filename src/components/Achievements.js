@@ -103,7 +103,7 @@ const Achievements = () => {
                                                     2,245,341
                                                 </Typography>
                                                 <Typography className='achievement-icon-text2'>
-                                                    Members
+                                                    Our Members
                                                 </Typography>
                                             </Box>
 
